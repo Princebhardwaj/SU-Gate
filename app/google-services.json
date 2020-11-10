@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83313590921",
+    "firebase_url": "https://su-gate.firebaseio.com",
+    "project_id": "su-gate",
+    "storage_bucket": "su-gate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83313590921:android:fc37ed5da6855c33347c58",
+        "android_client_info": {
+          "package_name": "com.example.sugate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83313590921-dgek87rflkhtgtn57i1p6l9q8r8k93rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sugate",
+            "certificate_hash": "598f98d457b9bc1201155f7d300ca45202a58420"
+          }
+        },
+        {
+          "client_id": "83313590921-3ep3mi2b6r1c7on5qft4qhredot5uab7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwQHP1TVSFeizgAN46RhlgQKmK6Qx6xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83313590921-3ep3mi2b6r1c7on5qft4qhredot5uab7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
